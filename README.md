@@ -27,3 +27,8 @@ Por ende, es de gran importancia que prestes atención a cada uno de ellos porqu
 **Cuadro pequeño:** Última forma de ganar, consiste en crear un cuadro pequeño conformado por cuatro casillas. Este puede estar ubicado en cualquier parte del tablero, la condición es que sean cuatro casillas que formen un pequeño cuadrado.
 
 **Cajero o locutor:** Nombre que se le da a la persona que se designa para ir sacando las fichas con los números y letras. Debe decir la combinación del número con la letra de cada una en voz alta para que cada jugador lo escuche y pueda llenar la casilla si el tablero contiene el número de la ficha.
+
+# Ejemplo de uso
+cantidad_cartones = 100  # se Cambia esto a la cantidad deseada
+generar_y_guardar_cartones(cantidad_cartones)
+exportar_cartones_a_excel(cantidad_cartones)
